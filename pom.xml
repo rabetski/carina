@@ -89,7 +89,7 @@
         <module>carina-core</module>
     </modules>
     <repositories>
-        <repository>
+        <!-- <repository>
             <id>qaprosoft_snapshots</id>
             <name>Qaprosoft Snapshots</name>
             <url>https://ci.qaprosoft.com/nexus/content/repositories/snapshots/</url>
@@ -104,7 +104,7 @@
             <id>qaprosoft_3rdparty</id>
             <name>Qaprosoft Thirdparty</name>
             <url>https://ci.qaprosoft.com/nexus/content/repositories/thirdparty/</url>
-        </repository>
+        </repository> -->
         <repository>
             <id>springio-plugins-release</id>
             <name>Spring Plugins</name>
