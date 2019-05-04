@@ -1,7 +1,5 @@
-.project
 target
 bin
-.classpath
 /test-output
 /.settings
 **/.settings
